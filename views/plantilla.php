@@ -17,6 +17,8 @@
   <!-- Theme style -->
   <link rel="stylesheet" href="css/adminlte.min.css">
   <link rel="stylesheet" href="css/custom.css">
+  <link rel="stylesheet" href="css/carousel.css">
+
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
 
   <!-- datatable -->
