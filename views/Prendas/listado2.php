@@ -58,7 +58,7 @@
     </a>
 </div> -->
 <div id="tabladetalles">
-    <a href="https://www.instagram.com/estudiokuality/?hl=es" target="_blank">
+    <a href="views/Prendas/talles.php" target="_blank">
         <title>Tabla de talles</title>
         <span class="spansocial">Tabla de talles</span>
         <i class="fa-solid fa-shirt talles"></i>

@@ -270,3 +270,14 @@ body {
 .btn-listado.entregar {
   background-color: rgb(91, 91, 255);
 }
+
+
+    @font-face {
+        font-family: "Varsity";
+        font-style: normal;
+        src: url("../../fonts/varsity_regular.otf");
+    }
+
+    .titulo {
+        font-family: "Varsity";
+    }
