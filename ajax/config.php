@@ -1,18 +1,12 @@
 <?php
-const COSTO_VINILO = 1800.00;
+const COSTO_VINILO = 2000.00;
 const COSTO_CONFECCION = 2000.00;
 
-// Base de datos
-const DB_HOST = 'localhost';
-const DB_USER = 'root';
-const DB_PASSWORD = '';
-const DB_NAME = 'capsula';
-
 // Config servidor
-// const DB_HOST = 'localhost';
-// const DB_USER = 'id19693949_alediaz';
-// const DB_PASSWORD = 'CC_39030116aas';
-// const DB_NAME = 'id19693949_lakapsula';
+const DB_HOST = 'localhost';
+const DB_USER = 'u924410920_admin';
+const DB_PASSWORD = 'CC_39030116aas';
+const DB_NAME = 'u924410920_lakapsula';
 
 const TBL_PRENDAS = 'prendas';
 const TBL_TELAS = 'telas';
@@ -84,9 +78,9 @@ const PAGINAS_CARO = [
 
 const TALLES = ["4", "6", "8", "10", "12", "14", "16", "S", "M", "L", "XL", "XXL", "MEDIAS"];
 
-const URL_ajax = "http://lakapsula.online/ajax";
-const URL_local = "http://lakapsula.online/";
-// const DIR_model = "http://lakapsula.online/model";
+const URL_ajax = "http://estudiokuality.com/ajax";
+const URL_local = "http://estudiokuality.com/";
+// const DIR_model = "http://estudiokuality.com/model";
 
 defined('DIR_ROOT') || define('DIR_ROOT', $_SERVER['DOCUMENT_ROOT'] . "/");
 defined('DIR_AJAX') || define('DIR_AJAX', $_SERVER['DOCUMENT_ROOT'] . "/ajax/");
